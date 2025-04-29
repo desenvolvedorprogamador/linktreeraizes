@@ -47,7 +47,7 @@ body {
   }
   
   p{
-    color: #555;
+    color: white;
   }
   
   .title{
@@ -67,5 +67,5 @@ body {
   }
   
   .link:hover {
-    background-color: lab(100% 0.01 -0.01);
+    background-color: lab(100;
   }
