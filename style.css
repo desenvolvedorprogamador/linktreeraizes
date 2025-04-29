@@ -15,9 +15,6 @@ body {
   }
   
   .container {
-    display:flex;
-    align-items:center;
-    justify-content:center;
     max-width: 400px;
     margin: auto;
     padding: 20px;
@@ -31,7 +28,7 @@ body {
     height: auto;
     border-radius: 50%;
     margin-bottom: 20px;
-      }
+  }
   
   .links-container{
     background-color: rgb(255, 255, 255, 0);
@@ -41,7 +38,7 @@ body {
     width: 80%;
     height: auto;
     padding-top: 10px;
-      
+    align-items:center;
   }
   
   
