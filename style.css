@@ -16,7 +16,7 @@ body {
   
   .container {
     max-width: 600px;
-    height: -1px;
+    max-height: -1px;
     margin: auto;
     padding: 20px;
     text-align: center;
