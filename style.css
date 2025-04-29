@@ -15,7 +15,8 @@ body {
   }
   
   .container {
-    max-width: 300px;
+    display:grid;
+    max-width: 600px;
     max-height: 100px;
     margin: auto;
     padding: 20px;
